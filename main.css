@@ -1,0 +1,26 @@
+/**************main.css**************/
+
+/**************elements**************/
+
+body {
+    background-color: #F5F5F5;
+    font-family: arial, georgia, serif;
+}
+
+button{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+/**************custom sytles**************/
+
+
+.wrapper { 
+    text-align: center;
+    margin-top: 200px;
+}
+
+.form{
+    padding: 100px;
+}
+

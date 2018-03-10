@@ -21,6 +21,10 @@ button{
 }
 
 .form{
-    padding: 100px;
+    padding: 25px;
+}
+
+#translation{
+    padding: 10px; 
 }
 
